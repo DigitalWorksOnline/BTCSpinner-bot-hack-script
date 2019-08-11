@@ -1,6 +1,9 @@
-//see README-FIRST file for how to use this bot on BTCSpinner to earn bitcoins easily without having to do any work... 
-// https://github.com/DigitalWorksOnline/https-btcspinner.io/blob/master/README-FIRST.md
+//Make free VIP account using the this invite link, a regular account wont earn enough to be worth it: 
+// http://bit.do/btspinner
 
+
+///THE SCRIPT on the page for the game, open developer tools in your browser, open consle, insert the code and press enter
+// this will keep it spinning 24/ 
 
 function mouseEvent(type, sx, sy, cx, cy) {
   var evt;
